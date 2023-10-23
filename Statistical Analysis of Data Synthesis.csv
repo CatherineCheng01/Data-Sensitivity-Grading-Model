@@ -1,0 +1,20 @@
+Code,Data Type,Banking [18],Banking[19],Communication[20],Communication[29],Medicine[42],Medicine[43],Medicine[44],Education[21],Education[22],Education[23]
+a,"Natural person identification includes information such as name, age, sex etc.",75,70,100,100,75,100,100,80,75,75
+b,"Physical identity document includes information such as certificate type and number,driver's license number etc.",75,80,100,100,100,100,100,80,75,100
+c,Password,75,80,100,100,50,100,100,80,75,100
+d,"Contact information includes phone number, user address book, friend list etc.",75,65,75,100,75,100,100,80,75,100
+e,"Fingerprints, voice prints, iris, etc.",80,85,100,100,100,100,100,80,75,100
+f,"Family information includes marriage information, family member information etc.",62.5,65,100,100,75,100,100,80,75,100
+g,Location data,0,70,75,100,50,100,100,80,75,75
+h,"Financial information includes account, bank card balance etc.",62.5,65,75,100,75,100,100,60,75,75
+i,Work/study information,75,75,75,100,75,100,100,80,75,75
+j,Service content includes service content of four industries.,50,60,75,100,50,100,33,20,25,25
+X,Industry public data Industry includes public data of four industries.,12.5,20,25,25,50,25,33,20,25,25
+Y,"Industry channel data includes business ordering  relationships, channel type, etc.",37.5,40,50,50,75,50,67,40,50,50
+Z,Sensitive industry data includes sensitive industry data of four industries.,100,90,100,100,100,100,100,100,100,100
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
