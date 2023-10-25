@@ -1,0 +1,65 @@
+ID,Type,Data
+1,personal data,Age
+2,personal data,Birth date
+3,personal data,Blood type
+4,personal data,Body images (non-nude)
+5,personal data,Body images (nude)
+6,personal data,Cell phone number
+7,personal data,Country
+8,personal data,Credit card number
+9,personal data,Credit score
+10,personal data,Digital signature
+11,personal data,DNA profile
+12,personal data,Documentation of grievances
+13,personal data,Driver's license number
+14,personal data,Educational Information
+15,personal data,Email address
+16,personal data,Family member
+17,personal data,Family/Friend¡¯s contact information
+18,personal data,Financial account numbers
+19,personal data,Finger print
+20,personal data,Former name
+21,personal data,Gender
+22,personal data,Genetic data
+23,personal data,GPS location
+24,personal data,Handwriting sample
+25,personal data,Health insurance ID
+26,personal data,Height
+27,personal data,Hobby
+28,personal data,Home address
+29,personal data,Home phone number
+30,personal data,Hometown
+31,personal data,Income level
+32,personal data,IP address
+33,personal data,Iris
+34,personal data,Job title
+35,personal data,Law enforcement files
+36,personal data,License plate number
+37,personal data,Marital
+38,personal data,Medical history
+39,personal data,Name
+40,personal data,Nationality
+41,personal data,Occupation
+42,personal data,Online screen name
+43,personal data,Opinions
+44,personal data,Passport number/ID Number
+45,personal data,Passport photo/ID photo
+46,personal data,Physical condition
+47,personal data,Picture face
+48,personal data,Place of birth
+49,personal data,Political affiliation
+50,personal data,Pregnancy
+51,personal data,Purchasing habits
+52,personal data,Race
+53,personal data,Religion
+54,personal data,"Security/access codes, passwords"
+55,personal data,Sexual preference
+56,personal data,Signed petitions
+57,personal data,Social network profile
+58,personal data,Surveys answers provided to companies
+59,personal data,Vehicle registration number
+60,personal data,Voice print
+61,personal data,Weight
+62,personal data,Work address
+63,personal data,Work contact information
+64,personal data,Zip code
